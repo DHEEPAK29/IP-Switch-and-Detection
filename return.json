@@ -1,0 +1,99 @@
+{
+  "ip": "68.82.106.248",
+  "hostname": "c-68-82-106-248.hsd1.pa.comcast.net",
+  "continent_code": "NA",
+  "continent_name": "North America",
+  "country_code2": "US",
+  "country_code3": "USA",
+  "country_name": "United States",
+  "country_name_official": "United States of America",
+  "country_capital": "Washington, D.C.",
+  "state_prov": "Pennsylvania",
+  "state_code": "US-PA",
+  "district": "Montgomery County",
+  "city": "Bala-Cynwyd",
+  "zipcode": "19004",
+  "latitude": "40.01314",
+  "longitude": "-75.23040",
+  "is_eu": false,
+  "calling_code": "+1",
+  "country_tld": ".us",
+  "languages": "en-US,es-US,haw,fr",
+  "country_flag": "https://ipgeolocation.io/static/flags/us_64.png",
+  "geoname_id": "5186210",
+  "isp": "Comcast Cable Communications, Inc.",
+  "connection_type": "",
+  "organization": "Comcast Cable Communications, LLC",
+  "country_emoji": "🇺🇸",
+  "asn": "AS7922",
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "symbol": "$"
+  },
+  "time_zone": {
+    "name": "America/New_York",
+    "offset": -5,
+    "offset_with_dst": -5,
+    "current_time": "2024-12-30 05:42:02.180-0500",
+    "current_time_unix": 1735555322.18,
+    "is_dst": false,
+    "dst_savings": 0,
+    "dst_exists": true,
+    "dst_start": {
+      "utc_time": "2024-03-10 TIME 07",
+      "duration": "+1H",
+      "gap": true,
+      "dateTimeAfter": "2024-03-10 TIME 03",
+      "dateTimeBefore": "2024-03-10 TIME 02",
+      "overlap": false
+    },
+    "dst_end": {
+      "utc_time": "2024-11-03 TIME 06",
+      "duration": "-1H",
+      "gap": false,
+      "dateTimeAfter": "2024-11-03 TIME 01",
+      "dateTimeBefore": "2024-11-03 TIME 02",
+      "overlap": true
+    }
+  },
+  "security": {
+    "threat_score": 0,
+    "is_tor": false,
+    "is_proxy": false,
+    "proxy_type": "",
+    "is_anonymous": false,
+    "is_known_attacker": false,
+    "is_spam": false,
+    "is_bot": false,
+    "is_cloud_provider": false
+  },
+  "user_agent": {
+    "userAgentString": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0",
+    "name": "Firefox",
+    "type": "Browser",
+    "version": "133.0",
+    "versionMajor": "133",
+    "build": "Unknown",
+    "device": {
+      "name": "Desktop",
+      "type": "Desktop",
+      "brand": "Unknown",
+      "cpu": "Intel x86_64"
+    },
+    "engine": {
+      "name": "Gecko",
+      "type": "Browser",
+      "version": "133.0",
+      "versionMajor": "133",
+      "build": "20100101"
+    },
+    "operatingSystem": {
+      "name": "Windows NT",
+      "type": "Desktop",
+      "version": ">=10",
+      "versionMajor": ">=10",
+      "build": "??"
+    }
+  }
+}
